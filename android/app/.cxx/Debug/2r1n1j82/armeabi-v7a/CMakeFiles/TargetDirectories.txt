@@ -1,0 +1,2 @@
+/home/crindalwalt/codebook/UniGram/android/app/.cxx/Debug/2r1n1j82/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/crindalwalt/codebook/UniGram/android/app/.cxx/Debug/2r1n1j82/armeabi-v7a/CMakeFiles/rebuild_cache.dir
