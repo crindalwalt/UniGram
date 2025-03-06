@@ -17,7 +17,7 @@ class UniGramApp extends StatelessWidget {
       home: HomeScreen(),
       theme: lightTheme,
       darkTheme: darkTheme,
-      themeMode: ThemeMode.system,
+      themeMode: ThemeMode.light,
     );
   }
 }

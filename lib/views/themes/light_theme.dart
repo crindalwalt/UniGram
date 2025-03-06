@@ -7,13 +7,4 @@ ThemeData lightTheme = ThemeData(
       backgroundColor: Colors.blue,
       centerTitle: true,
     ),
-    colorScheme: ColorScheme(
-        brightness: Brightness.light,
-        primary: Color(0xffd4a373),
-        onPrimary: Color(0xff023047),
-        secondary: Color(0xff8ecae6),
-        onSecondary: Color(0xff780000),
-        error: Color(0xffc1121f),
-        onError: Color(0xffe0e1dd),
-        surface: Colors.grey,
-        onSurface: Colors.black),);
+    colorScheme: ColorScheme.fromSeed(seedColor: Colors.purple));
